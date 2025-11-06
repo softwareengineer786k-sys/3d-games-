@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Gemini Firefight Lobby",
+  "description": "A concept for a 3D game lobby interface, similar to games like Free Fire. It features a 3D character viewer and uses the Gemini API to generate dynamic mission briefings for the player.",
+  "requestFramePermissions": []
+}
